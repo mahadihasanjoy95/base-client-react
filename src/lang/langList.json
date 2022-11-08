@@ -1,0 +1,12 @@
+[
+    {
+        "name": "English",
+        "code": "en",
+        "flag_icon_class": "flag-icon-is"
+    },
+    {
+        "name": "বাংলা",
+        "code": "bn",
+        "flag_icon_class": "flag-icon-bd"
+    }
+]

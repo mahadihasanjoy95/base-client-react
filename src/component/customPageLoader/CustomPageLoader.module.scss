@@ -1,0 +1,39 @@
+.defaultDesign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 80px);
+}
+
+.loader {
+    position: fixed;
+    left: calc(50% - 25px);
+    top: calc(50% - 25px);
+    height: 50px;
+    z-index: 1026;
+}
+
+.overlayed {
+    background-color: #EFEFEF;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1026;
+    top: 0;
+    left: 0;
+    opacity: 0.8; /* in FireFox */
+    filter: alpha(opacity=50); /* in IE */
+}
+
+
+.loadinglogoct {
+    //border-radius: 50%;
+    //border: 3px solid #013a6d;
+    //border-left-color: transparent;
+    width: 50px;
+    position: fixed;
+    left: calc(50% - 25px);
+    top: calc(50% - 25px);
+    height: 50px;
+    z-index: 1026;
+}

@@ -1,0 +1,17 @@
+{
+    "maintenance": false,
+    "web_base_url": "https://dev.onestoplms.com",
+    "api_base_url": "https://api.onestoplms.com/dev",
+    "cookie_url_endpoint": ".onestoplms.com",
+    "auth0_redirected_endpoint": "dev-login",
+    "social_api_base_url": "https://auth-development.onestoplms.com",
+    "cloudfront_base_url": "https://streamdev.onestoplms.com/public/",
+    "cognitoUserPoolId": "ap-south-1_r14JB7wPC",
+    "identityPoolId": "ap-south-1:d326191d-4063-4f17-81c5-3781f9260971",
+    "bucket": "oslms-media-conversion-stack-source-bucket-development",
+    "region": "ap-south-1",
+    "aws": {
+        "cognito_app_client_id": "6o301or6c0boeejf40hagc5il2",
+        "auth0_app_client_id": "1nAVwKMKb5zPySy34aTfRFR2KKPdBsFi"
+    }
+}
