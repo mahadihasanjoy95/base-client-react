@@ -8,11 +8,11 @@ import './scss/DefaultLayout.scss'
 const DefaultLayout = (props) => {
     return(
         <Fragment>
-        <Header />
+        {/*<Header />*/}
         <div className="defaultayout-body">
             <Outlet /> 
         </div>
-        <Footer />
+        {/*<Footer />*/}
         <Loader />
         </Fragment>
     )

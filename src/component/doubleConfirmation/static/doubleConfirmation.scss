@@ -1,0 +1,22 @@
+.modal-sm .modal-content .modal-body {
+    padding: 1rem;
+    overflow: hidden !important;
+}
+
+.modal-content {
+    border-radius: 5px !important;
+}
+.modal-body.double-confirmation{
+    &::-webkit-scrollbar {
+        width: 8px !important;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #AAAAAA !important;
+        border-radius: 6px !important;
+    }
+}
+.action-block{
+    margin-top: 20px;
+}
+

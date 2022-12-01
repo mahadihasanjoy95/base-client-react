@@ -4,5 +4,8 @@
         "404": "404",
         "content":"The page you are attempting to reach is currently not available. This may be because the page does not exist or has been moved.",
         "back_to_home":"Back to Home"
+    },
+    "cart": {
+        "PAYMENT_STATUS": "Payment failed"
     }
 }

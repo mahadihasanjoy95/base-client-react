@@ -1,0 +1,8 @@
+{
+    "api_base_url": "https://ylh8equg5d.execute-api.us-west-2.amazonaws.com/dev",
+    "social_api_base_url": "https://auth-development.onestoplms.com",
+    "payment": {
+        "paypal_sandbox_client_id": "AcxSuRmH4PYb4nxfANDKProwvnh2TmsEKYbjbOX61kNMV2qVt5eA3Xgb9h0s7SRBBpqJoS8wNaW3Gij3",
+        "paypal_prod_client_id": "paypal_sandbox_client_id"
+    }
+}
